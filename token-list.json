@@ -1,0 +1,1263 @@
+{
+  "name": "Canonical Wrapped Tokens",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-08T21:06:57.282Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://optimistic.etherscan.io/token/images/weth_28.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 14,
+      "address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+      "decimals": 18,
+      "logoURI": "https://flare-explorer.flare.network/assets/configs/network_icon_dark.png",
+      "name": "Wrapped Flare",
+      "symbol": "WFLR"
+    },
+    {
+      "chainId": 16,
+      "address": "0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91",
+      "decimals": 18,
+      "logoURI": "https://flare-explorer.flare.network/assets/configs/network_icon_dark.png",
+      "name": "Wrapped CostonFlare",
+      "symbol": "WCFLR"
+    },
+    {
+      "chainId": 19,
+      "address": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
+      "decimals": 18,
+      "logoURI": "https://flare-explorer.flare.network/assets/configs/network_icon_dark.png",
+      "name": "Wrapped Songbird",
+      "symbol": "WSGB"
+    },
+    {
+      "chainId": 25,
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "decimals": 18,
+      "logoURI": "https://cronoscan.com/token/images/cryptocom_32.png",
+      "name": "Wrapped CRO",
+      "symbol": "WCRO"
+    },
+    {
+      "chainId": 31,
+      "address": "0xa274D994f698Dd09256674960D86aBa22c086669",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32702.png",
+      "name": "Wrapped RSK Bitcoin",
+      "symbol": "WRBTC"
+    },
+    {
+      "chainId": 40,
+      "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
+      "name": "Wrapped TLOS",
+      "symbol": "WTLOS"
+    },
+    {
+      "chainId": 41,
+      "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
+      "name": "Wrapped TLOS",
+      "symbol": "WTLOS"
+    },
+    {
+      "chainId": 44,
+      "address": "0x2D2b97EA380b0185e9fDF8271d1AFB5d2Bf18329",
+      "decimals": 18,
+      "name": "Wrapped CRAB",
+      "symbol": "WCRAB"
+    },
+    {
+      "chainId": 46,
+      "address": "0xE7578598Aac020abFB918f33A20faD5B71d670b4",
+      "decimals": 18,
+      "name": "Wrapped Ring",
+      "symbol": "WRING"
+    },
+    {
+      "chainId": 50,
+      "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/28268/small/xinfin.jpeg?1696527269",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC"
+    },
+    {
+      "chainId": 56,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/bnbchain2_32.png",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    {
+      "chainId": 57,
+      "address": "0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-syscoin.webp",
+      "name": "Wrapped SYS",
+      "symbol": "WSYS"
+    },
+    {
+      "chainId": 61,
+      "address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27126/small/1321.png?1696526178",
+      "name": "Wrapped ETC",
+      "symbol": "WETC"
+    },
+    {
+      "chainId": 71,
+      "address": "0x2ed3dddae5b2f321af0806181fbfa6d049be47d8",
+      "decimals": 18,
+      "logoURI": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMzNweCIgaGVpZ2h0PSIzM3B4IiB2aWV3Qm94PSIwIDAgMzMgMzMiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDYxLjIgKDg5NjUzKSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4KICAgIDx0aXRsZT5Ub2tlbnM8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZyBpZD0i6aG16Z2iLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSLnlLvmnb8iIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00NzUuMDAwMDAwLCAtMzEuMDAwMDAwKSI+CiAgICAgICAgICAgIDxnIGlkPSJUb2tlbnMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ2My4wMDAwMDAsIDE4LjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGcgaWQ9Ik1haW4iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLjAwMDAwMCwgMTMuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTE0LjA5Mzc5NDEsOS42MTI5NjI4NiBDMTMuODI1MTcwNSw5LjIzMjgzNDcgMTMuMzU0NjM0MSw5LjAwMTM2MzM1IDEyLjg0Nzc5NjcsOSBMNC4xNTUyOTU4Niw5IEMzLjY0NTgzNTIxLDguOTk5MTE2MzYgMy4xNzE5MzgxMiw5LjIzMDg3MDA1IDIuOTAxOTI0ODUsOS42MTI5NjI4NyBMMC4yMjU2MTM1MjcsMTMuNDAxNDg4OCBDLTAuMTE4NTc4MzcxLDEzLjg4NjUyMzggLTAuMDY0NzQ2MDY4OCwxNC41MTMzOTYyIDAuMzU4MzIzMzY0LDE0Ljk0Njg4NyBMNy45Mzc1MjYzNCwyMi43NzE3MTM4IEM4LjIwMjE2NjI4LDIzLjA0NTQxMDcgOC42Njc1Njc0MywyMy4wNzc1NDY0IDguOTc3MDMwNTIsMjIuODQzNDkxNiBDOS4wMDYxNTA3MywyMi44MjE0NjcyIDkuMDMzMjg1MzEsMjIuNzk3NDY4NiA5LjA1ODE4NzY5LDIyLjc3MTcxMzggTDE2LjYzNzM5MDcsMTQuOTQ2ODg3IEMxNy4wNjI4MDQxLDE0LjUxNDg3ODIgMTcuMTE5NjMzNywxMy44ODc5MTQzIDE2Ljc3NzQ3MzIsMTMuNDAxNDg4OCBMMTQuMDkzNzk0MSw5LjYxMjk2Mjg2IFoiIGlkPSLot6/lvoQiIGZpbGw9IiNDNEM2RDIiIGZpbGwtcnVsZT0ibm9uemVybyI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNi43Nzc2MDcyLDE4LjQ2NTY5MjYgQzI2LjU3MjE4OTIsMTguMTc2ODkzOSAyNi4yMTIzNjczLDE4LjAwMTAzNTggMjUuODI0Nzg1NywxOCBMMTkuMTc3NTc5MiwxOCBDMTguNzg3OTkxNiwxNy45OTkzMjg3IDE4LjQyNTU5OTcsMTguMTc1NDAxMyAxOC4yMTkxMTksMTguNDY1NjkyNiBMMTYuMTcyNTI4LDIxLjM0Mzk4ODIgQzE1LjkwOTMyMjQsMjEuNzEyNDg4OSAxNS45NTA0ODgzLDIyLjE4ODc0OSAxNi4yNzQwMTIsMjIuNTE4MDg5NCBMMjIuMDY5ODczMSwyOC40NjI5MjU0IEMyMi4yNzIyNDQ4LDI4LjY3MDg2NCAyMi42MjgxMzk4LDI4LjY5NTI3ODcgMjIuODY0Nzg4LDI4LjUxNzQ1NzkgQzIyLjg4NzA1NjQsMjguNTAwNzI1MSAyMi45MDc4MDY0LDI4LjQ4MjQ5MjQgMjIuOTI2ODQ5NCwyOC40NjI5MjU0IEwyOC43MjI3MTA1LDIyLjUxODA4OTQgQzI5LjA0ODAyNjYsMjIuMTg5ODc1IDI5LjA5MTQ4NDYsMjEuNzEzNTQ1MiAyOC44Mjk4MzI1LDIxLjM0Mzk4ODIgTDI2Ljc3NzYwNzIsMTguNDY1NjkyNiBaIiBpZD0i6Lev5b6EIiBmaWxsPSIjN0Y4Mjk2IiBmaWxsLXJ1bGU9Im5vbnplcm8iPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMjUuNTgwOTM0MiwzLjc0NDMxMjcyIEMyNS4yNjQ5MDY1LDMuMjgyNzI4MTEgMjQuNzExMzM0MywzLjAwMTY1NTQ5IDI0LjExNTA1NSwzIEwxMy44ODg1ODM0LDMgQzEzLjI4OTIxNzksMi45OTg5MjcwMSAxMi43MzE2OTE5LDMuMjgwMzQyNDYgMTIuNDE0MDI5MiwzLjc0NDMxMjc0IEw5LjI2NTQyNzY4LDguMzQ0NjY5ODMgQzguODYwNDk2MDMsOC45MzM2NDE0OSA4LjkyMzgyODE1LDkuNjk0ODQ0MzMgOS40MjE1NTY5LDEwLjIyMTIyNjUgTDE4LjMzODI2NjMsMTkuNzIyODEwNiBDMTguNjQ5NjA3NCwyMC4wNTUxNTcxIDE5LjE5NzEzODIsMjAuMDk0MTc5MSAxOS41NjEyMTI0LDE5LjgwOTk2OTUgQzE5LjU5NTQ3MTQsMTkuNzgzMjI1NSAxOS42MjczOTQ1LDE5Ljc1NDA4NDMgMTkuNjU2NjkxNCwxOS43MjI4MTA2IEwyOC41NzM0MDA4LDEwLjIyMTIyNjUgQzI5LjA3Mzg4NzEsOS42OTY2NDM5NSAyOS4xNDA3NDU2LDguOTM1MzI5ODggMjguNzM4MjAzOCw4LjM0NDY2OTgyIEwyNS41ODA5MzQyLDMuNzQ0MzEyNzIgWiIgaWQ9Iui3r+W+hCIgZmlsbD0iIzRDNEY2MCIgZmlsbC1ydWxlPSJub256ZXJvIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPGcgaWQ9InNwYXJrIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLjAwMDAwMCwgMTAuMDAwMDAwKSIgZmlsbD0iI0ZGRkZGRiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxyZWN0IGlkPSLnn6nlvaIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE0LjAwMDAwMCwgNC42MDAwMDApIHJvdGF0ZSg0Ny4wMDAwMDApIHRyYW5zbGF0ZSgtMTQuMDAwMDAwLCAtNC42MDAwMDApICIgeD0iMTAiIHk9IjQiIHdpZHRoPSI4IiBoZWlnaHQ9IjEuMiIgcng9IjAuNiI+PC9yZWN0PgogICAgICAgICAgICAgICAgICAgICAgICA8cmVjdCBpZD0i55+p5b2i5aSH5Lu9IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0LjAwMDAwMCwgOC42MDAwMDApIHJvdGF0ZSg0Ny4wMDAwMDApIHRyYW5zbGF0ZSgtNC4wMDAwMDAsIC04LjYwMDAwMCkgIiB4PSIwLjUiIHk9IjgiIHdpZHRoPSI3IiBoZWlnaHQ9IjEuMiIgcng9IjAuNiI+PC9yZWN0PgogICAgICAgICAgICAgICAgICAgICAgICA8cmVjdCBpZD0i55+p5b2i5aSH5Lu9LTIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE5LjI1MDAwMCwgMTUuNjAwMDAwKSByb3RhdGUoNDcuMDAwMDAwKSB0cmFuc2xhdGUoLTE5LjI1MDAwMCwgLTE1LjYwMDAwMCkgIiB4PSIxNyIgeT0iMTUiIHdpZHRoPSI0LjUiIGhlaWdodD0iMS4yIiByeD0iMC42Ij48L3JlY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjaXJjbGUgaWQ9IuakreWchuW9oiIgY3g9IjEwIiBjeT0iMC41IiByPSIxIj48L2NpcmNsZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGNpcmNsZSBpZD0i5qSt5ZyG5b2i5aSH5Lu9LTMiIGN4PSIwLjUiIGN5PSI1IiByPSIxIj48L2NpcmNsZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGNpcmNsZSBpZD0i5qSt5ZyG5b2i5aSH5Lu9LTQiIGN4PSIxNi41IiBjeT0iMTIuNSIgcj0iMSI+PC9jaXJjbGU+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=",
+      "name": "Wrapped CFX",
+      "symbol": "WCFX"
+    },
+    {
+      "chainId": 88,
+      "address": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BuildOnViction/tokens/master/tokens/0xc054751bdbd24ae713ba3dc9bd9434abe2abc1ce.png",
+      "name": "Wrapped Viction",
+      "symbol": "WVIC"
+    },
+    {
+      "chainId": 97,
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/bnbchain2_32.png",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    {
+      "chainId": 100,
+      "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+      "decimals": 18,
+      "logoURI": "https://gnosisscan.io/token/images/wrappedxdai_32.png",
+      "name": "Wrapped XDAI",
+      "symbol": "WXDAI"
+    },
+    {
+      "chainId": 109,
+      "address": "0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8",
+      "decimals": 18,
+      "name": "Shibarium Wrapped BONE",
+      "symbol": "WBONE"
+    },
+    {
+      "chainId": 114,
+      "address": "0xC67DCE33D7A8efA5FfEB961899C73fe01bCe9273",
+      "decimals": 18,
+      "name": "Wrapped Coston2Flare",
+      "symbol": "WC2FLR"
+    },
+    {
+      "chainId": 122,
+      "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33535/small/3WFUSE_token_logo_crl.png?1703026207",
+      "name": "Wrapped Fuse",
+      "symbol": "WFUSE"
+    },
+    {
+      "chainId": 123,
+      "address": "0x34F55CefA7F80eA6eDE6D08db7302928a7358d4B",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33535/small/3WFUSE_token_logo_crl.png?1703026207",
+      "name": "Wrapped Fuse",
+      "symbol": "WFUSE"
+    },
+    {
+      "chainId": 133,
+      "address": "0x4937121cE9d6BBE48c2479FEead9EA27B3732331",
+      "decimals": 18,
+      "name": "Wrapped HSK",
+      "symbol": "WHSK"
+    },
+    {
+      "chainId": 137,
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/wMatic_32.png",
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC"
+    },
+    {
+      "chainId": 148,
+      "address": "0x1074010000000000000000000000000000000000",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/shimmer.webp",
+      "name": "Shimmer",
+      "symbol": "SMR",
+      "extensions": {
+        "isNative": true
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 185,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 195,
+      "address": "0xa2affd8301bfb3c5b815829f2f509f053556d21b",
+      "decimals": 18,
+      "logoURI": "https://static.coinall.ltd/cdn/web3/cdn/wallet/d6adc9bd-1c32-4247-a9dc-06859e31ef4d.png?x-oss-process=image/format,webp/resize,w_80,h_80,type_6/ignore-error,1",
+      "name": "Wrapped OKB",
+      "symbol": "WOKB"
+    },
+    {
+      "chainId": 196,
+      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
+      "decimals": 18,
+      "logoURI": "https://static.coinall.ltd/cdn/web3/cdn/wallet/d6adc9bd-1c32-4247-a9dc-06859e31ef4d.png?x-oss-process=image/format,webp/resize,w_80,h_80,type_6/ignore-error,1",
+      "name": "Wrapped OKB",
+      "symbol": "WOKB"
+    },
+    {
+      "chainId": 204,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/bnbchain2_32.png",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    {
+      "chainId": 250,
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/wFtm_32.png",
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM"
+    },
+    {
+      "chainId": 252,
+      "address": "0xFC00000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://fraxscan.com/token/images/wfrxeth_32.png",
+      "name": "Wrapped Frax Ether",
+      "symbol": "wfrxETH"
+    },
+    {
+      "chainId": 255,
+      "address": "0x4200000000000000000000000000000000000001",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 288,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "decimals": 18,
+      "logoURI": "https://imgproxy-mainnet.routescan.io/8OTGgIyFLDzrZH3wFlA7WkSJ4afgXwyhDWmTbWWjMEg/pr:thumb_32/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvdHlwZT1wbmdfMzUwXzAuMGRiZTViYWRkMDIy",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 291,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 314,
+      "address": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A",
+      "decimals": 18,
+      "logoURI": "https://filfox.info/dist/img/wfil.803862d.svg",
+      "name": "Wrapped FIL",
+      "symbol": "WFIL"
+    },
+    {
+      "chainId": 338,
+      "address": "0x0728B93B969f84A248Df7e499358A6733834FD7b",
+      "decimals": 18,
+      "logoURI": "https://cronoscan.com/token/images/cryptocom_32.png",
+      "name": "Wrapped CRO",
+      "symbol": "WCRO"
+    },
+    {
+      "chainId": 360,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 369,
+      "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png",
+      "name": "Wrapped Pulse",
+      "symbol": "WPLS"
+    },
+    {
+      "chainId": 480,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50790/small/wETH_32.png?1729214345",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 570,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-syscoin.webp",
+      "name": "Wrapped Syscoin",
+      "symbol": "WSYS"
+    },
+    {
+      "chainId": 686,
+      "address": "0x0000000000000000000100000000000000000080",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/kar.svg",
+      "name": "Karura",
+      "symbol": "KAR",
+      "extensions": {
+        "isNative": true
+      }
+    },
+    {
+      "chainId": 690,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 701,
+      "address": "0xec8406f4e6B1b853E50c53872648b7BD5e4a7b8a",
+      "decimals": 18,
+      "name": "Wrapped KRING",
+      "symbol": "WKRING"
+    },
+    {
+      "chainId": 919,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 943,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 957,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 1001,
+      "address": "0x043c471bee060e00a56ccd02c0ca286808a5a436",
+      "decimals": 18,
+      "logoURI": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDSVJDTEVfT1VUTElORV9CTEFDSyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIKCSB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojQkQwNzJGO30KCS5zdDF7ZmlsbDojRkE0MjEyO30KCS5zdDJ7ZmlsbDojRkY4MDAwO30KCS5zdDN7ZmlsbDojQjcwQzAyO30KPC9zdHlsZT4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTI1NC44LDI4OC4xYzUzLjksNTMuOCwxMDcsMTA2LjgsMTYwLDE1OS43Yy04Ny45LDc1LjItMjI1LjksNzguNC0zMTkuNy0xLjIKCUMxNDguNSwzOTMuNywyMDEuNywzNDAuOSwyNTQuOCwyODguMXoiLz4KPHBhdGggY2xhc3M9InN0MSIgZD0iTTI5MS41LDI1NS45YzM1LjItMzYuMiw3MC45LTczLjIsMTA3LTEwOS45YzE1LTE1LjMsMzAuNS0yOS45LDQ2LjEtNDQuNmMxLjItMS4xLDUuMi0xLjMsNS45LTAuNAoJYzI3LjQsMzYsNDcuOCw3NS4zLDUzLjIsMTIwLjhjOC4yLDY5LjQtNy43LDEzMi42LTUxLjMsMTg4LjFjLTEuMiwxLjUtMi4zLDMuMi0yLjksNC4xQzM5Ni4zLDM2MC43LDM0My4xLDMwNy42LDI5MS41LDI1NS45eiIvPgo8cGF0aCBjbGFzcz0ic3QyIiBkPSJNMTM5LjEsMzM3LjhjNS45LTE1LjYsMTEuOS0zMS4yLDE3LjgtNDYuOGMyNC41LTY0LjUsNDktMTI5LDczLjUtMTkzLjRjNy43LTIwLDE2LjQtMzkuNywyNC4zLTU5LjcKCWMzLTcuNyw1LjMtMTUuNyw3LjctMjMuNmMxLjgtNS45LDUuNC04LjEsMTEuNi03LjVjMjQuNCwyLjQsNDguNCw2LjIsNzAuOSwxNi41YzEzLDYsMjYuMywxMS40LDM4LjcsMTguNQoJYzEwLjEsNS44LDE4LjksMTMuNywzMC4xLDIyTDE0MC43LDMzOUwxMzkuMSwzMzcuOHoiLz4KPHBhdGggY2xhc3M9InN0MyIgZD0iTTIwMC4yLDQ3LjdjLTQ1LjksMTIxLjUtOTEuNywyNDIuOS0xMzguNSwzNjYuOWMtOC44LTEzLjQtMTctMjQuNy0yMy45LTM2LjdjLTE1LjgtMjcuNS0yNS45LTU3LjktMjkuOS04OS40CgljLTEuOS0xNS0xLjUtMzAuNC0xLjYtNDUuNmMwLTIuNCwyLjItNS4zLDQuMS03LjJDNjkuNSwxNzYuNCwxMjguOCwxMTcuMywxODgsNTguMmMzLjYtMy42LDcuMS03LjQsMTAuNy0xMS4yTDIwMC4yLDQ3Ljd6Ii8+Cjwvc3ZnPgo=",
+      "name": "Wrapped Klay",
+      "symbol": "WKLAY"
+    },
+    {
+      "chainId": 1030,
+      "address": "0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b",
+      "decimals": 18,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b.png",
+      "name": "Wrapped Conflux",
+      "symbol": "WCFX"
+    },
+    {
+      "chainId": 1088,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "decimals": 18,
+      "logoURI": "https://imgproxy-mainnet.routescan.io/vr6_QOUlpcrJ-IMGMNGDLYk5bM_Z8Jw02w-Y36lP4Ic/pr:thumb_32/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvbWV0aXMuOTdkZTU2YmFiMDMyLnN2Zw",
+      "name": "Metis Token",
+      "symbol": "Metis"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+      "decimals": 18,
+      "logoURI": "https://zkevm.polygonscan.com/token/images/wrappedeth_ofc_32.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 1111,
+      "address": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
+      "decimals": 18,
+      "logoURI": "https://wemixstake.com/resource/images/icons/icon_wemix.svg",
+      "name": "Wrapped Wemix",
+      "symbol": "WWEMIX"
+    },
+    {
+      "chainId": 1112,
+      "address": "0x8fe2Ec5D822164D9143d285f4cCDEa15373B2BC1",
+      "decimals": 18,
+      "logoURI": "https://wemixstake.com/resource/images/icons/icon_wemix.svg",
+      "name": "Wrapped Wemix",
+      "symbol": "WWEMIX"
+    },
+    {
+      "chainId": 1135,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "decimals": 18,
+      "logoURI": "https://moonscan.io/token/images/moonbeamglmr_new_32.png",
+      "name": "Wrapped GLMR",
+      "symbol": "WGLMR"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+      "decimals": 18,
+      "logoURI": "https://moonriver.moonscan.io/token/images/moonrivermovr_new_32.png",
+      "name": "Wrapped MOVR",
+      "symbol": "WMOVR"
+    },
+    {
+      "chainId": 1287,
+      "address": "0xbd23fCD60bD2682dea6A3aad84b498c54d56c494",
+      "decimals": 18,
+      "name": "Wrapped DEV",
+      "symbol": "WDEV"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+      "decimals": 18,
+      "logoURI": "https://dzyb4dm7r8k8w.cloudfront.net/prod/logos/0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7/logo.png",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI"
+    },
+    {
+      "chainId": 1559,
+      "address": "0xd6cb8a253e12893b0cF39Ca78F7d858652cCa1fe",
+      "decimals": 18,
+      "logoURI": "https://tenetscan.io/images/token-icons/mainnet/0xd6cb8a253e12893b0cF39Ca78F7d858652cCa1fe.png",
+      "name": "Wrapped TENET",
+      "symbol": "WTENET"
+    },
+    {
+      "chainId": 1625,
+      "address": "0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51955/small/Gravity_Icon_Dark.png?1732238090",
+      "name": "Wrapped G",
+      "symbol": "wG"
+    },
+    {
+      "chainId": 1750,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 1891,
+      "address": "0xF42991f02C07AB66cFEa282E7E482382aEB85461",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 1993,
+      "address": "0x3538f4C55893eDca690D1e4Cf9Fb61FB70cd0DD8",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 2000,
+      "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/dogechain.webp",
+      "name": "Wrapped WDOGE",
+      "symbol": "WWDOGE"
+    },
+    {
+      "chainId": 2221,
+      "address": "0xFa95D53e0B6e82b2137Faa70FD7E4a4DC70Da449",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-kava.webp",
+      "name": "Wrapped Kava",
+      "symbol": "WKAVA"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-kava.webp",
+      "name": "Wrapped Kava",
+      "symbol": "WKAVA"
+    },
+    {
+      "chainId": 2331,
+      "address": "0xAd1a18d7e792DF42Af26ba85438Fc751Cdfa9578",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/RSS3-Network/web3-icons/main/icons/rss3-wrss3.svg",
+      "name": "Wrapped RSS3",
+      "symbol": "WRSS3"
+    },
+    {
+      "chainId": 2355,
+      "address": "0xe66863b695a392507f5d68b6a7b8aa8218914059",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 2358,
+      "address": "0x4200000000000000000000000000000000000001",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 2522,
+      "address": "0xFC00000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://fraxscan.com/token/images/wfrxeth_32.png",
+      "name": "Wrapped Frax Ether",
+      "symbol": "wfrxETH"
+    },
+    {
+      "chainId": 2810,
+      "address": "0x5300000000000000000000000000000000000011",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WETH.svg",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 4200,
+      "address": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    {
+      "chainId": 4201,
+      "address": "0xB789fbA6532378151D2395f1171B1a7461BF6fBe",
+      "decimals": 18,
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/wlyx.webp",
+      "name": "Wrapped LYX",
+      "symbol": "WLYX"
+    },
+    {
+      "chainId": 4202,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 4689,
+      "address": "0xa00744882684c3e4747faefd68d283ea44099d03",
+      "decimals": 18,
+      "logoURI": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io15qr5fzpxsnp7garl4m7k355rafzqn8grrm0grz.png",
+      "name": "Wrapped IOTX",
+      "symbol": "WIOTX"
+    },
+    {
+      "chainId": 4801,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "decimals": 18,
+      "logoURI": "https://mantlescan.xyz/token/images/mantle_32.png",
+      "name": "Mantle Token",
+      "symbol": "MNT",
+      "extensions": {
+        "isNative": true
+      }
+    },
+    {
+      "chainId": 5165,
+      "address": "0x4084aB20f8ffcA76C19AAF854Fb5fe9DE6217fBB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-ftn.webp",
+      "name": "Wrapped FTN",
+      "symbol": "WFTN"
+    },
+    {
+      "chainId": 5611,
+      "address": "0x617d91847b74b70a3d3e3745445cb0d1b3c8560e",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/bnbchain2_32.png",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    {
+      "chainId": 5700,
+      "address": "0xa66b2E50c2b805F31712beA422D0D9e7D0Fd0F35",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-syscoin.webp",
+      "name": "Wrapped SYS",
+      "symbol": "WSYS"
+    },
+    {
+      "chainId": 6001,
+      "address": "0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863",
+      "decimals": 18,
+      "logoURI": "https://bbscan.io/images/token/wbb.svg",
+      "name": "Wrapped BounceBit Token",
+      "symbol": "WBB"
+    },
+    {
+      "chainId": 7332,
+      "address": "0xF5cB8652a84329A2016A386206761f455bCEDab6",
+      "decimals": 18,
+      "name": "Wrapped ZEN",
+      "symbol": "WZEN"
+    },
+    {
+      "chainId": 7560,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2396.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://basescan.org/token/images/weth_28.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 8822,
+      "address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-iota.webp",
+      "name": "wIOTA",
+      "symbol": "wIOTA"
+    },
+    {
+      "chainId": 8899,
+      "address": "0x99999999990FC47611b74827486218f3398A4abD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-jbc.webp",
+      "name": "Wrapped JBC",
+      "symbol": "WJBC"
+    },
+    {
+      "chainId": 11011,
+      "address": "0x48A9B22b80F566E88f0f1DcC90Ea15A8A3bAE8a4",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 11235,
+      "address": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/islamic-coin.webp",
+      "name": "Wrapped ISLM",
+      "symbol": "WISLM"
+    },
+    {
+      "chainId": 11501,
+      "address": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/bridged-wrapped-btc-bevm.webp",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    {
+      "chainId": 12553,
+      "address": "0xE27D019909738D98Ab7F850C05eE07806c30c71D",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/RSS3-Network/web3-icons/main/icons/rss3-wrss3.svg",
+      "name": "Wrapped RSS3",
+      "symbol": "WRSS3"
+    },
+    {
+      "chainId": 13371,
+      "address": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35845/small/immutable.jpeg?1709890878",
+      "name": "Wrapped IMX",
+      "symbol": "WIMX"
+    },
+    {
+      "chainId": 13473,
+      "address": "0x1CcCa691501174B4A623CeDA58cC8f1a76dc3439",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35845/small/immutable.jpeg?1709890878",
+      "name": "Wrapped IMX",
+      "symbol": "WIMX"
+    },
+    {
+      "chainId": 17000,
+      "address": "0x94373a4919B3240D86eA41593D5eBa789FEF3848",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 17069,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 18233,
+      "address": "0x0C68a3C11FB3550e50a4ed8403e873D367A8E361",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 23294,
+      "address": "0x8Bc2B030b299964eEfb5e1e0b36991352E56D2D3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-rose.webp",
+      "name": "Wrapped ROSE",
+      "symbol": "wROSE"
+    },
+    {
+      "chainId": 23295,
+      "address": "0xB759a0fbc1dA517aF257D5Cf039aB4D86dFB3b94",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-rose.webp",
+      "name": "Wrapped ROSE",
+      "symbol": "wROSE"
+    },
+    {
+      "chainId": 28882,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 32769,
+      "address": "0x94e18ae7dd5ee57b55f30c4b63e2760c09efb192",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/zilliqa.webp",
+      "name": "Wrapped ZIL",
+      "symbol": "WZIL"
+    },
+    {
+      "chainId": 33111,
+      "address": "0x34b097B133bF3Fe3B7daD0d65E8f18DD5bf1a57B",
+      "decimals": 18,
+      "logoURI": "https://apescan.io/token/images/wrappedapecoin_32.png",
+      "name": "Wrapped APE",
+      "symbol": "wAPE"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://cdn.routescan.io/cdn/chains/modescan/modescan_32.avif",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 35441,
+      "address": "0xd07178e3eCbC78De110Df84fe1A979D5f349784a",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-q.webp",
+      "name": "Wrapped Q",
+      "symbol": "WQ"
+    },
+    {
+      "chainId": 35443,
+      "address": "0x76F4f36CE4f1550D95BAd917ef05520Eca310685",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-q.webp",
+      "name": "Wrapped Q",
+      "symbol": "WQ"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+      "decimals": 18,
+      "logoURI": "https://celoscan.io/token/images/celonative_new_32.png",
+      "name": "Celo native asset",
+      "symbol": "CELO",
+      "extensions": {
+        "isNative": true
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51172/small/wxtz.png?1730278555",
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ"
+    },
+    {
+      "chainId": 43113,
+      "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+      "decimals": 18,
+      "logoURI": "https://imgproxy-testnet.routescan.io/zm1twsNQUnrBR8Kg_53uycmO90JTDOgU9XneoLjHtqI/pr:thumb_32/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvYXZhbGFuY2hlLWF2YXgtbG9nby5iY2ZiYjE2Mjg0ZDAucG5n",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "decimals": 18,
+      "logoURI": "https://imgproxy-mainnet.routescan.io/2Autemc1D81ylHaNC1VitShpAnb9P_ad6qUzKUeXI0I/pr:thumb_32/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvYXZheF8zMi5jNmY1NDI5NGY3MjgucG5n",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX"
+    },
+    {
+      "chainId": 44787,
+      "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
+      "decimals": 18,
+      "logoURI": "https://celoscan.io/token/images/celonative_new_32.png",
+      "name": "Celo native asset",
+      "symbol": "CELO",
+      "extensions": {
+        "isNative": true
+      }
+    },
+    {
+      "chainId": 48899,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 53457,
+      "address": "0x3a64Ec3606FF7310E8fAd6FcC008e39705fB496d",
+      "decimals": 18,
+      "name": "Wrapped Berd",
+      "symbol": "WBERD"
+    },
+    {
+      "chainId": 57000,
+      "address": "0xcAc0759160d57A33D332Ed36a555C10957694407",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-syscoin.webp",
+      "name": "Wrapped TSYS",
+      "symbol": "WTSYS"
+    },
+    {
+      "chainId": 59141,
+      "address": "0x10253594A832f967994b44f33411940533302ACb",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 59144,
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      "decimals": 18,
+      "logoURI": "https://lineascan.build/token/images/weth_32.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 60808,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 62049,
+      "address": "0x98E1817244d130D8fE05591ba517d3f24Db035Ec",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 62050,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 80002,
+      "address": "0xA5733b3A8e62A8faF43b0376d5fAF46E89B3033E",
+      "decimals": 18,
+      "logoURI": "https://zkevm.polygonscan.com/token/images/pol_32.png",
+      "name": "Wrapped POL",
+      "symbol": "WPOL"
+    },
+    {
+      "chainId": 80084,
+      "address": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
+      "decimals": 18,
+      "logoURI": "https://imgproxy-testnet.routescan.io/vR2RHZ04yHbMN2I13_cmz-fbzFYfCI4_e61WV5fbmNs/pr:thumb_32/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvQkVSQS45MjBjMGJiZTM1MWEucG5n",
+      "name": "WBERA Token",
+      "symbol": "WBERA"
+    },
+    {
+      "chainId": 80085,
+      "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
+      "decimals": 18,
+      "logoURI": "https://imgproxy-testnet.routescan.io/vR2RHZ04yHbMN2I13_cmz-fbzFYfCI4_e61WV5fbmNs/pr:thumb_32/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvQkVSQS45MjBjMGJiZTM1MWEucG5n",
+      "name": "Wrapped BERA",
+      "symbol": "WBERA"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x4300000000000000000000000000000000000004",
+      "decimals": 18,
+      "logoURI": "https://blastscan.io/token/images/weth_32.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 84532,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 88882,
+      "address": "0x678c34581db0a7808d0aC669d7025f1408C9a3C6",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/8834/small/CHZ_Token_updated.png?1675848257",
+      "name": "Wrapped Chiliz",
+      "symbol": "wCHZ"
+    },
+    {
+      "chainId": 88888,
+      "address": "0x677F7e16C7Dd57be1D4C8aD1244883214953DC47",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/8834/small/CHZ_Token_updated.png?1675848257",
+      "name": "Wrapped Chiliz",
+      "symbol": "wCHZ"
+    },
+    {
+      "chainId": 105105,
+      "address": "0xeA705D2DbD8DE7Dc70Db7B531D0F620d9CeE9d18",
+      "decimals": 18,
+      "name": "Wrapped STRAX",
+      "symbol": "WSTRAX"
+    },
+    {
+      "chainId": 111188,
+      "address": "0x90c6E93849E06EC7478ba24522329d14A5954Df4",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-real-ether.webp",
+      "name": "Wrapped Real Ether",
+      "symbol": "WREETH"
+    },
+    {
+      "chainId": 167000,
+      "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
+      "decimals": 18,
+      "logoURI": "https://taikoscan.io/token/images/wETH_32.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 167009,
+      "address": "0xae2C46ddb314B9Ba743C6dEE4878F151881333D9",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 205205,
+      "address": "0x6f39A32C3E7A54164e1C6E201979aec276B0Da8E",
+      "decimals": 18,
+      "name": "Wrapped STRAX",
+      "symbol": "WSTRAX"
+    },
+    {
+      "chainId": 534351,
+      "address": "0x5300000000000000000000000000000000000004",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x5300000000000000000000000000000000000004",
+      "decimals": 18,
+      "logoURI": "https://scrollscan.com/token/images/weth_28.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 660279,
+      "address": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/xai-blockchain.webp",
+      "name": "Wrapped Xai",
+      "symbol": "WXAI"
+    },
+    {
+      "chainId": 713715,
+      "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+      "decimals": 18,
+      "logoURI": "https://dzyb4dm7r8k8w.cloudfront.net/prod/logos/0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7/logo.png",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI"
+    },
+    {
+      "chainId": 808813,
+      "address": "0x8CEc2719a2e896A11eA3f10406EfDb6Ad87281D9",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 3397901,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 3441006,
+      "address": "0x199d1a27684106dC3Deb673115fc0fc9cf6af287",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 6038361,
+      "address": "0x441325a0e1D5aC0d64C9cc790FcAbf9c5416a4a1",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 7777777,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 9999999,
+      "address": "0xa7ea032Dea10E551EEEa78C40e483D13323247c9",
+      "decimals": 18,
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/__flt.webp",
+      "name": "Wrapped FLT",
+      "symbol": "WFLT"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xf531B8F309Be94191af87605CfBf600D71C2cFe0",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 11155420,
+      "address": "0x1BDD24840e119DC2602dCC587Dd182812427A5Cc",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 20241133,
+      "address": "0xD1927A43aF6d18424075d1C8f21339B4EE0776b9",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 28122024,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 52164803,
+      "address": "0xa7ea032Dea10E551EEEa78C40e483D13323247c9",
+      "decimals": 18,
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/__flt.webp",
+      "name": "Wrapped FLT",
+      "symbol": "WFLT"
+    },
+    {
+      "chainId": 111557560,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 168587773,
+      "address": "0x4200000000000000000000000000000000000023",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x202C35e517Fa803B537565c40F0a6965D7204609",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/neonscan/token-list/main/assets/0xf8ad328e98f85fccbf09e43b16dcbbda7e84beab.png",
+      "name": "Wrapped Neon",
+      "symbol": "WNEON"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36809/small/wdegen.jpeg?1712546442",
+      "name": "Wrapped Degen",
+      "symbol": "WDEGEN"
+    },
+    {
+      "chainId": 888888888,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 999999999,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-one.webp",
+      "name": "Wrapped ONE",
+      "symbol": "WONE"
+    },
+    {
+      "chainId": 1722641160,
+      "address": "0x2f9cc2c11d5e10a5fd5c90c68f7fad69f82ced0b",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 37714555429,
+      "address": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/xai-blockchain.webp",
+      "name": "Wrapped Xai",
+      "symbol": "WXAI"
+    },
+    {
+      "chainId": 123420000220,
+      "address": "0xa7ea032Dea10E551EEEa78C40e483D13323247c9",
+      "decimals": 18,
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/__flt.webp",
+      "name": "Wrapped FLT",
+      "symbol": "WFLT"
+    }
+  ]
+}
